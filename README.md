@@ -13,18 +13,17 @@ Atualmente, foco em:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jouderian/)
 
 ### 🛠️ Tecnologias & Ferramentas
-<div style="display: inline-block">
-  <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img align="center" alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white"/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="Home Assistant" src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white"/>
-  <img align="center" alt="msSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</div>
+![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![msSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 <br/>
 
-### 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jouderian&layout=compact)
-![Jouderian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jouderian&show_icons=true&theme=radical)
+### 📈 Atividade no GitHub
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jouderian&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 *"A tecnologia deve servir à produtividade e à simplificação de processos."*

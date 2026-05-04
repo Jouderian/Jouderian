@@ -22,8 +22,8 @@ Atualmente, foco em:
 
 ### 📈 Atividade no GitHub
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jouderian&theme=radical" alt="GitHub Streak Stats" />
+  <!-- Estatísticas de Contribuição (Streak) em Português -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jouderian&theme=radical&locale=pt_br" alt="Estatísticas de contribuição do Jouderian" />
 </p>
-
 ---
 *"A tecnologia deve servir à produtividade e à simplificação de processos."*
